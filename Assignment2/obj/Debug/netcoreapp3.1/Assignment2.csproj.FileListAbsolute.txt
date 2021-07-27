@@ -1,0 +1,13 @@
+C:\Users\Rinki Ritu\source\repos\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.csproj.AssemblyReference.cache
+C:\Users\Rinki Ritu\source\repos\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Rinki Ritu\source\repos\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.AssemblyInfo.cs
+C:\Users\Rinki Ritu\source\repos\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Rinki Ritu\source\repos\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.exe
+C:\Users\Rinki Ritu\source\repos\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.deps.json
+C:\Users\Rinki Ritu\source\repos\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.runtimeconfig.json
+C:\Users\Rinki Ritu\source\repos\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.runtimeconfig.dev.json
+C:\Users\Rinki Ritu\source\repos\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.dll
+C:\Users\Rinki Ritu\source\repos\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.pdb
+C:\Users\Rinki Ritu\source\repos\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.dll
+C:\Users\Rinki Ritu\source\repos\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.pdb
+C:\Users\Rinki Ritu\source\repos\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.genruntimeconfig.cache

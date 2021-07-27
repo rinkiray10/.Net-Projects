@@ -1,0 +1,13 @@
+C:\Users\Rinki Ritu\source\repos\SecondApplication\bin\Debug\netcoreapp3.1\SecondApplication.exe
+C:\Users\Rinki Ritu\source\repos\SecondApplication\bin\Debug\netcoreapp3.1\SecondApplication.deps.json
+C:\Users\Rinki Ritu\source\repos\SecondApplication\bin\Debug\netcoreapp3.1\SecondApplication.runtimeconfig.json
+C:\Users\Rinki Ritu\source\repos\SecondApplication\bin\Debug\netcoreapp3.1\SecondApplication.runtimeconfig.dev.json
+C:\Users\Rinki Ritu\source\repos\SecondApplication\bin\Debug\netcoreapp3.1\SecondApplication.dll
+C:\Users\Rinki Ritu\source\repos\SecondApplication\bin\Debug\netcoreapp3.1\SecondApplication.pdb
+C:\Users\Rinki Ritu\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.csproj.AssemblyReference.cache
+C:\Users\Rinki Ritu\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.AssemblyInfoInputs.cache
+C:\Users\Rinki Ritu\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.AssemblyInfo.cs
+C:\Users\Rinki Ritu\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.csproj.CoreCompileInputs.cache
+C:\Users\Rinki Ritu\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.dll
+C:\Users\Rinki Ritu\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.pdb
+C:\Users\Rinki Ritu\source\repos\SecondApplication\obj\Debug\netcoreapp3.1\SecondApplication.genruntimeconfig.cache

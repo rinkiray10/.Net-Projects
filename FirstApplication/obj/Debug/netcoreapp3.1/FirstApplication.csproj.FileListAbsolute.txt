@@ -1,0 +1,13 @@
+C:\Users\Rinki Ritu\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csproj.AssemblyReference.cache
+C:\Users\Rinki Ritu\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfoInputs.cache
+C:\Users\Rinki Ritu\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfo.cs
+C:\Users\Rinki Ritu\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\Rinki Ritu\source\repos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.exe
+C:\Users\Rinki Ritu\source\repos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.deps.json
+C:\Users\Rinki Ritu\source\repos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.json
+C:\Users\Rinki Ritu\source\repos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.dev.json
+C:\Users\Rinki Ritu\source\repos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\Rinki Ritu\source\repos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\Rinki Ritu\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\Rinki Ritu\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\Rinki Ritu\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.genruntimeconfig.cache

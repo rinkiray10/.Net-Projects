@@ -1,0 +1,13 @@
+C:\Users\Rinki Ritu\source\repos\Application3\bin\Debug\netcoreapp3.1\Application3.exe
+C:\Users\Rinki Ritu\source\repos\Application3\bin\Debug\netcoreapp3.1\Application3.deps.json
+C:\Users\Rinki Ritu\source\repos\Application3\bin\Debug\netcoreapp3.1\Application3.runtimeconfig.json
+C:\Users\Rinki Ritu\source\repos\Application3\bin\Debug\netcoreapp3.1\Application3.runtimeconfig.dev.json
+C:\Users\Rinki Ritu\source\repos\Application3\bin\Debug\netcoreapp3.1\Application3.dll
+C:\Users\Rinki Ritu\source\repos\Application3\bin\Debug\netcoreapp3.1\Application3.pdb
+C:\Users\Rinki Ritu\source\repos\Application3\obj\Debug\netcoreapp3.1\Application3.AssemblyInfoInputs.cache
+C:\Users\Rinki Ritu\source\repos\Application3\obj\Debug\netcoreapp3.1\Application3.AssemblyInfo.cs
+C:\Users\Rinki Ritu\source\repos\Application3\obj\Debug\netcoreapp3.1\Application3.csproj.CoreCompileInputs.cache
+C:\Users\Rinki Ritu\source\repos\Application3\obj\Debug\netcoreapp3.1\Application3.dll
+C:\Users\Rinki Ritu\source\repos\Application3\obj\Debug\netcoreapp3.1\Application3.pdb
+C:\Users\Rinki Ritu\source\repos\Application3\obj\Debug\netcoreapp3.1\Application3.genruntimeconfig.cache
+C:\Users\Rinki Ritu\source\repos\Application3\obj\Debug\netcoreapp3.1\Application3.csproj.AssemblyReference.cache
