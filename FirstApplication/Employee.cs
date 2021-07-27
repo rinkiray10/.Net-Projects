@@ -7,7 +7,7 @@ namespace FirstApplication
     class Organization
     {
         internal static string orgname = "LTI";
-        string City = "Chennai";
+        string City = "Kolkata";
         internal static void GetOrgDetails()
         {
             int value = 90;
