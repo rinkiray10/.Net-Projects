@@ -12,6 +12,7 @@ namespace FirstApplication
         {
             int value = 90;
             Console.WriteLine(orgname);
+            Console.WriteLine("Hi");
             //Console.Writename(City); //error it can access only static variable
         }
     }
